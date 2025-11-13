@@ -92,4 +92,6 @@ jobs:
 
 ## References
 
+[Blowfish] theme for Hugo.
+
 [blowfish]: <https://blowfish.page/>

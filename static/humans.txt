@@ -1,0 +1,23 @@
+/* TEAM */
+Developer: Sebastian Erfort
+Location: --
+
+/* THANKS */
+Hugo Community
+Blowfish Theme by Nuno Coração
+
+/* SITE */
+Last update: 2025-11-13
+Standards: HTML5, CSS3, RSS, JSON
+Components: Hugo, Blowfish Theme, GitHub Actions
+Software: Hugo v0.145.0, Git
+
+/* TECHNOLOGY COLOPHON */
+Static Site Generator: Hugo (https://gohugo.io)
+Theme: Blowfish (https://github.com/nunocoracao/blowfish)
+Hosting: GitHub Pages
+CI/CD: GitHub Actions
+Version Control: Git
+Build Tools: Hugo CLI, peaceiris/actions-hugo
+Content Format: Markdown
+Configuration: TOML
